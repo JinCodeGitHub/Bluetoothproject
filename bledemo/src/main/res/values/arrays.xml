@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stn_type">
+        <item>请设置</item>
+        <item>主接收机</item>
+        <item>辅接收机</item>
+
+    </string-array>
+</resources>

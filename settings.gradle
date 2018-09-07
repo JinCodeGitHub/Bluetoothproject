@@ -1,0 +1,1 @@
+include ':app', ':mylibrary', ':bledemo', ':unlock', ':blekit', ':blekit2', ':blekit3', ':gnsstest'
